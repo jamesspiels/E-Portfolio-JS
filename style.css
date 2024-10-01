@@ -501,7 +501,7 @@ nav {
     transition: all 600ms ease;
 }
 .project {
-    margin-bottom: 56px;
+    padding-bottom: 56px;
 }
 
 .project__wrapper{
