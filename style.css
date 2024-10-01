@@ -500,6 +500,9 @@ nav {
     width: 100%;
     transition: all 600ms ease;
 }
+.project {
+    margin-bottom: 56px;
+}
 
 .project__wrapper{
     position: relative;
